@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saquib27/leetcode/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/saquib27/leetcode/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/saquib27/leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
@@ -55,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
