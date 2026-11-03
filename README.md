@@ -31,16 +31,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/saquib27/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
