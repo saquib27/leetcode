@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/saquib27/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/saquib27/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/saquib27/leetcode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
