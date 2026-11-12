@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saquib27/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0079-word-search](https://github.com/saquib27/leetcode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/saquib27/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/saquib27/leetcode/tree/master/0200-number-of-islands) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/saquib27/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saquib27/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saquib27/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
